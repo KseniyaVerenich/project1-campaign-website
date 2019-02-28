@@ -1,7 +1,8 @@
 Candidate: 
-ZOEY! A candidate for all species! (Bridging the gap between humans and animals!)
+# ZOEY! A candidate for all species! 
+### (Bridging the gap between humans and animals!)
 
-<div>MVP: Create a candidate website that allows users to access her page and </div>
+MVP: Create a candidate website that allows users to access her page and 
 
 Must:
 - Ability to enter email
