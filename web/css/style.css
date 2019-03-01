@@ -1,0 +1,88 @@
+#zoey-center {
+    width: 30%;
+    height: 30%;
+
+}
+
+#zoeymeet {
+    width: 70%;
+    height: 70%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#dogshake {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+#jumbo, #jumbo5 {
+    background-color: #67BCDE;
+    
+
+
+}
+
+#jumbo2 {
+    background-color: white;
+}
+
+#jumbo3 {
+    background-color: #67BCDE;
+
+
+}
+
+#home, #profile {
+    color:#67BCDE;
+}
+
+#jumbo4 {
+    background-image: url("/img/Grass.png");
+    background-size: 100%;
+}
+
+#ZoeyHeader, #slogan {
+    font-family: 'Fredoka One', cursive;
+    color: white;
+}
+
+#MeetZoey {
+    font-family: 'Fredoka One', cursive;
+    color:#67BCDE;
+
+}
+
+#newDates {
+    font-size: medium;
+    vertical-align: 150%;
+
+
+}
+
+#email {
+    color: rgb(241, 156, 28);
+    font-weight: bold;
+
+
+
+}
+
+#location, #web, #location2, #links, #links2 {
+    color: white;
+    font-family: 'Fredoka One', cursive;
+
+}
+#about, #privacy, #find {
+    color: white;
+    font-family: 'Fredoka One', cursive;
+
+}
+#listnobull {
+    list-style-type: none;
+    
+}
+
+body {
+    background-image: url("/img/clouds.png");
+  }
