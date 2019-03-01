@@ -2,13 +2,13 @@ Candidate:
 # ZOEY! A candidate for all species! 
 ## (Bridging the gap between humans and animals!)
 
-#### MVP: Create a candidate website that allows users to access her page and 
+#### MVP: Create a candidate website that allows users to access her page and
 
 Must:
-- Ability to enter email
-- Responsive website
+- Ability to enter email (x)
+- Responsive website (x)
 - Google translate
-- Pictures
+- Pictures (x)
 
 Should:
 - Be aesthetically pleasing
@@ -18,6 +18,7 @@ Should:
 Could: 
 - Un-biased
 - Have more than one page
+- email pop-up modal
 
 Wont:
 - Actually email 
